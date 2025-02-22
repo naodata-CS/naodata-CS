@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 ***About me***
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+I am a software engineering student, currently start through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
   - AWS
   - C/C++
@@ -14,7 +14,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="naodatacs@gmail.com">naodata2002@gmail.com</a>
+- 📫 Reach out to me at: <a href="naodata2002@gmail.com">naodata2002@gmail.com</a>
 
 ## My Skills Include
 
@@ -65,8 +65,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=naodata-CS&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=naodata-CS&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=naodata-CS&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/naodata-CS)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=naodata-CS&theme=material-palenight)](https://github.com/naodata-CS)
 </div>
 <!---
 naodata-CS/naodata-CS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
